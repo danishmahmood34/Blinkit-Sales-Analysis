@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-An interactive Power BI dashboard analyzing Blinkit's sales performance across product categories, outlet types, outlet locations, outlet sizes and fat content.
+An interactive Power BI dashboard analyzing Blinkit's sales performance across product categories, outlet types, outlet locations, outlet sizes, and fat content.
 
 ## 🛠️ Tools
 
@@ -18,29 +18,29 @@ An interactive Power BI dashboard analyzing Blinkit's sales performance across p
 | Total Sales | $1.20M |
 | Average Sales | $141 |
 | No. of Items | 8,523 |
-| Average Rating | 3.97 |
+| Average Rating | 3.9 |
 
 ## 🔍 Key Insights
 
 - **Supermarket Type1** generated the highest sales at approximately **$787.55K**.
 - **Tier 3 outlets** generated the highest location-level sales at approximately **$472.13K**.
 - **Medium-sized outlets** contributed the highest sales at approximately **$507.90K**.
-- **Fruits & Vegetables** was the highest-selling item category at approximately **$178.12K**, closely followed by **Snack Foods** at **$175.43K**.
-- **Low Fat** products generated approximately **$717.39K**, representing the largest share of sales by fat-content category.
+- **Fruits & Vegetables** and **Snack Foods** were among the highest-selling categories.
+- **Low Fat** products generated the largest share of sales.
 
-## 📈 Dashboard
+## 📈 Power BI Dashboard
 
-![Blinkit Power BI Dashboard](a3693911-8bc8-4360-8d7a-500303b17b52.png)
+![Blinkit Power BI Dashboard](BlinkIT_PBI.JPG)
 
 ## 💡 Business Recommendations
 
-- Prioritize expansion and optimization of high-performing **Supermarket Type1** outlets.
-- Focus inventory and promotions on high-performing categories such as **Fruits & Vegetables** and **Snack Foods**.
-- Investigate the strong performance of **Tier 3 markets** for future outlet expansion.
-- Optimize product mix toward categories and attributes generating the highest sales.
+- Prioritize high-performing **Supermarket Type1** outlets.
+- Focus inventory and promotions on high-performing product categories.
+- Explore the strong performance of **Tier 3 markets** for future expansion.
+- Optimize the product mix based on sales performance.
 
 ## 📁 Files
 
 - `blinkit_data.csv` — Source dataset
-- `a3693911-8bc8-4360-8d7a-500303b17b52.png` — Power BI dashboard
-
+- `BlinkIT_PBI.JPG` — Power BI dashboard
+- `BlinkIT_Sales_Analysis.pbix` — Power BI project file
